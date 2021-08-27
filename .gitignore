@@ -1,0 +1,20 @@
+# Standard Python virtual environment files/folders
+bin
+include
+lib64
+lib
+pyvenv.cfg
+share
+__pycache__
+
+# Webform files directory - used during runtime
+webform_files
+
+# Test files
+beseen-test.tar.gz
+ssh_test.py
+sql/select-test.sql
+pg_connection_test.py
+mysql_connection_test.py
+list_webforms_test.py
+prepare-environment.sh
